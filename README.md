@@ -16,6 +16,7 @@ If you have any questions, you can submit an issue.
 * [x] Support for Google TTS
 * [ ] The desktop version supports TTS
 * [x] Custom domain
+* [ ] Desktop UI
 
 ### Screenshot
 
