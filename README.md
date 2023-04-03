@@ -6,10 +6,19 @@ Users need to go to the OpenAI website to obtain their own API key, your API key
 
 This project was developed to meet my own needs, so updates may be slow.
 
-### Next todo
-- [ ] A complete template library
-- [ ] Commonly used tool library (image generation, file translation ...)
-- [ ] Support for Azure TTS
-- [x] Support for Google TTS
-
 If you have any questions, you can submit an issue.
+
+### Next todo
+
+* [ ] A complete template library
+* [ ] Commonly used tool library (image generation, file translation ...)
+* [ ] Support for Azure TTS
+* [x] Support for Google TTS
+* [ ] The desktop version supports TTS
+* [ ] Custom domain
+
+### Screenshot
+
+![1](./assets/ex1.png)
+
+![2](./assets/ex2.png)
